@@ -1,0 +1,5 @@
+{{#user}
+Name: Ritesh
+Skills: HTML, CSS, Bootstrap, JS, jQuery, React.js, Redux, Express.js, Node.js, MongoDB, Next.js, Git, GitHub
+Email: test@gmail.com
+{{/user}}
